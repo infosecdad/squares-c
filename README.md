@@ -2,7 +2,7 @@
 
 For the Chapter 4 lab, we are going to create a program that can generate a square of asterisks.
 
-As before, we have an invite for GitHub Classroom: https://classroom.github.com/a/eWC8-dcd
+As before, we have an invite for GitHub Classroom: 
 
 
 
@@ -27,14 +27,14 @@ The program would handle lengths of 1-20.
 
 Example output:
 
-Please enter the length of a side of a square (1-20): 4
+    Please enter the length of a side of a square (1-20): 4
 
-****
-*  *
-*  *
-****
+    ****
+    *  *
+    *  *
+    ****
 
-Would you like to draw another square (y/n)? n
+    Would you like to draw another square (y/n)? n
 
 
 
