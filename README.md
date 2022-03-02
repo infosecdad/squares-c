@@ -1,6 +1,6 @@
 # squares-c
 
-For the Chapter 4 lab, we are going to create a program that can generate a square of asterisks.
+For the Chapter 3 lab, we are going to create a program that can generate a square of asterisks.
 
 As before, we have an invite for GitHub Classroom: 
 
